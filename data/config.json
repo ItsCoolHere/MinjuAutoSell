@@ -1,0 +1,8 @@
+{
+  "buy": "F8",
+  "sell": "F9",
+  "sell_price": "20",
+  "run_key": "F10",
+  "user": "YOUR_USER_NAME",
+  "bot_token": "YOUR_APP_TOKEN"
+}
